@@ -64,5 +64,4 @@ public class Item {
 	public void setCheckedIn(boolean isCheckedIn) {
 		this.isCheckedIn = isCheckedIn;
 	}
-
 }
